@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("Curry FMVP");
         System.out.println("Kobe");
         System.out.println("勇士总冠军！");
+        System.out.println("master");
     }
 
 }
